@@ -1,4 +1,4 @@
-# Write your code here.def line(deli)
+def line(deli)
   if deli.empty?
     puts "The line is currently empty."
   else
@@ -23,3 +23,4 @@ def now_serving(deli)
     deli.shift
   end
 end
+© 2019 GitHub, Inc.
