@@ -23,4 +23,3 @@ def now_serving(deli)
     deli.shift
   end
 end
-© 2019 GitHub, Inc.
